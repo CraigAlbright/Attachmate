@@ -1,0 +1,4 @@
+C:\TFS\RAP\Main\Source\Modules\TicketNotification\ProcessAttachHelper\bin\Debug\ProcessAttachMate.dll
+C:\TFS\RAP\Main\Source\Modules\TicketNotification\ProcessAttachHelper\bin\Debug\ProcessAttachMate.pdb
+C:\TFS\RAP\Main\Source\Modules\TicketNotification\ProcessAttachHelper\obj\Debug\ProcessAttachMate.dll
+C:\TFS\RAP\Main\Source\Modules\TicketNotification\ProcessAttachHelper\obj\Debug\ProcessAttachMate.pdb
